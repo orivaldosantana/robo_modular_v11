@@ -7,9 +7,9 @@ Esta versão é construída com Arduino, motor DC, baterias 18650 e ponte H L911
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/10c8e088-65f9-4f02-9f3f-d631fed891e4" alt="URA" width="600" >
 
 
-### Peças 3D 
+## Peças 3D 
 
-#### STLs: 
+### STLs: 
 * 1 x [Suporte Arduino](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/suporte%20arduino.stl) 
 * 1 x [Base do suporte L9110](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/sup%20L9110%20base.stl)
 * 1 x [Topo do suporte L9110](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/sup%20L9110%20topo.stl)
@@ -17,27 +17,30 @@ Esta versão é construída com Arduino, motor DC, baterias 18650 e ponte H L911
 * 1 x [Chapa Modular 7x7](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/chapa%207x7.stl) 
 * 2 x [Tira Modular 7x1](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/tira%207%20furos.stl) 
 * 1 x [Caixa ultrassom](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/caixa%20ultrassom.stl)
-* 1 x [Tampa da caixa do ultrassom]( )
-* 4 x [Espaçador de 32 mm]( )
-* 2 x [Espaçador de 28 mm]( )
-* 1 x [Suporte para o sensor de linha]( )
-* 1 x [Suporte roda boba]()
-* 1 x [Roda Omni]( )
+* 1 x [suporte da caixa do ultrassom](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/suporte%20caixa%20ultrassom.stl)
+* 4 x [Espaçador de 32 mm](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/espa%C3%A7ador%2032mm.stl)
+* 2 x [Espaçador de 28 mm](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/espa%C3%A7ador%2028mm.stl)
+* 1 x [Suporte para o sensor de linha](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/suporte%20sensor%20linha.stl)
+* 1 x [Suporte roda boba](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/roda%20omni/sup%20omni.stl)
+* 1 x [Roda Omni](https://github.com/orivaldosantana/robo_modular_v11/tree/main/partes%203D/roda%20omni)
 
  
-#### Editaveis no OnShape
-##### Montagem
-* [Link para a montagem](https://cad.onshape.com/documents/880c63f2cc7943d0957a5179/w/8bfa18de3753c42cd6624e6d/e/4bdecd8a43b304c001c7ee30?renderMode=0&uiState=65ea56d640fe057aaa815583)
+### Editaveis no OnShape
+## Montagem
+* [Link para a montagem](https://cad.onshape.com/documents/1797a3ca0f50067e5b2f7467/w/d2fdd87127a878d32b85a5d1/e/55e155fb02a23330101a4e5d?renderMode=0&uiState=67265944ec4e1f12a94ac0fe)
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/3ee78002-2849-48c8-b791-aaa6fb2adaee" alt="URA" width="400" >
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/3ee78002-2849-48c8-b791-aaa6fb2adaee" alt="MD" width="400" >
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/972cd2d5-7001-4dbd-98d5-e0937f28fa32" alt="URA" width="400" >
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/972cd2d5-7001-4dbd-98d5-e0937f28fa32" alt="MD" width="400" >
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/b89a631e-ea1d-4b78-a5fb-0d59b8436ca1" alt="URA" width="400" >
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/b89a631e-ea1d-4b78-a5fb-0d59b8436ca1" alt="MD" width="400" >
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/b71c63b2-2b2d-4a6c-aacd-f401533b6df5" alt="URA" width="400" >
+<img src="https://github.com/Natalnet/URA3D/assets/19957124/b71c63b2-2b2d-4a6c-aacd-f401533b6df5" alt="MD" width="400" >
 
 
+## Montagem Motores 
+* [Preparação dos motores DC](https://youtu.be/uoehkZviNMs)
+* [Montagem dos motores DC](https://youtu.be/0yrsRWZnIXw)
   
 
 
@@ -102,9 +105,6 @@ O **total** por robô deve ficar em torno de: ??? (Em 2024)
 
 Observação: Ao comprar em quantidade é possivel que o custo do envio fique muito baixo ou até sem custo. 
 
-## Montagem  
-* [Preparação dos motores DC](https://youtu.be/uoehkZviNMs)
-* [Montagem dos motores DC](https://youtu.be/0yrsRWZnIXw)
  
  
 ## Códigos 
