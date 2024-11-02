@@ -62,11 +62,29 @@ Motor B - Direito
 | S  | 5 | 
 
 ## Robô Fujão 
+O robô fujão foi projeto para correr em área livres, quando ele encontra alguma barreira ele tenta se afastar. O seu código foi desenvolvido com base na rede neural SOM (https://github.com/ect-comp/ml/blob/master/aulas/som.md) e contem 36 neurônios. A sua estrutura física é constituída de basicamente dois motores DC e três sensores ultrassônicos posicionados, uma na frente, outra na lateral esquerda e outra na lateral direita. 
 
-O robô fujão foi projeto para correr em área livres, quando ele encontra alguma barreira ele tenta se afastar. O seu código foi desenvolvido com base na rede neural SOM (https://github.com/ect-comp/ml/blob/master/aulas/som.md) e contem 36 neurônios. A sua estrutura física é constituida de basicamente dois moteres DC e três sensores ultrassonicos posicionados uma na frente, outra na lateral esquerda e outra na lateral direita. 
+O princípio de funcionamento do código do Fujão é ler os valores dos sensores de distância, buscar na rede neural a experiência que melhor representa estas leituras e reagir conforme a experiência aprendida pela rede neural. O processo de treinamento da rede neural consistiu em coletar situações especificas (leituras dos sensores) e criar representações destas situações na rede neural SOM. Considerando que cada situação da base de treinamento possui uma ação associada, após treinada, cada neurônio da rede foi associado a uma ações. A situação ou estado do robô é representado pela leitura dos sensores. As situações e as ações foram gravadas em uma base de dados (txt). A base foi organizada em 4 colunas, sendo as três primeiras para as leituras dos sensores e a quarta coluna para a ação do robô (andar para frente, girar para esquerda, girar para direita ou andar para trás). 
 
-O princípio de funcionamento do código do Fujão é ler os valores dos sensores de distância, buscar na rede neural a experiência que melhor representa estas leituras e reagir de acordo com a experiência aprendida pela rede neural. O processo de treinamento da rede neural consistiu em coletar situações especificas (leituras dos sensores) e criar representações destas situações na rede neural SOM. Considerando que cada situação da base de treinamento possui uma ação associada, depois de treinanda, cada neurônio da rede foi associado a uma ações. A situação ou estado do robô é representado pela leitura dos sensores. As situações e as ações foram gravadas em uma base de dados (txt). A base foi organizada em 4 colunas, sendo as três primeiras para as leituras dos sensores e a quarta coluna para a ação do robô (andar para frente, girar para esquerda, girar para direita ou andar para trás). 
 
+Exemplo de uma base de dados: 
+```txt
+13 4
+0   0  0 r
+20  0 20 r
+20 20 20 r
+10 40 68 d
+10 20 68 d
+68 68 20 e
+68 40 20 e
+68 68 68 f
+20 68 20 f
+20 40 20 r
+68 40 20 e
+20 40 60 f
+68  0 68 e
+68 10 68 e
+``` 
 
 
 ### Fotos 
