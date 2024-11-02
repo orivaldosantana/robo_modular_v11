@@ -29,6 +29,21 @@ Motor B - Direito
 | Echo  | 8 |
 | Vcc | 5v | 
 
+| Sensor de distância esquerdo | Arduino |
+| --------------- | --------------- | 
+| GND | GND  | 
+| Trig  | 7 | 
+| Echo  | 6 |
+| Vcc | 5v | 
+
+
+| Sensor de distância direito | Arduino |
+| --------------- | --------------- | 
+| GND | GND  | 
+| Trig  | 3 | 
+| Echo  | 2 |
+| Vcc | 5v | 
+
 ### Sensores de Linha 
 
 | Sensor de Linha Esquerdo | Arduino |
