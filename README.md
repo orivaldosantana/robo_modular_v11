@@ -1,4 +1,4 @@
-# Robô Modular - MD 
+# Robô Modular - RM
 Repositório de código, peças 3D e especificações básicas para o robô modular.
 
 ## Introdução
