@@ -90,19 +90,19 @@ Total aproximado
 ## Partes Eletrônicas e Outras 
 | Link e Descrição | Qt. | Preço aproximado (R$) |
 | --- | --- | --- |
-| [20 CM 40 P DuPont cabo fêmea-fêmea, jumpers](https://pt.aliexpress.com/item/32847418999.html) | 1 | - |
-| [Roda Universal com esfera de aço, roda boba](https://pt.aliexpress.com/item/4000995103921.html) | 1 | - |
-| [Arduino]() | 1 | - |  
-| [Motor DC TT de 3 a 12v com Roda](https://pt.aliexpress.com/item/32851946942.html ) | 2 | - | 
-| [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | - |
-| [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33011621183.html) | 1 | - |
-| [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | - |
-| [Sensor Ultrassom](https://pt.aliexpress.com/item/33008144645.html) | 1 | - | 
-| [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | - | 
+| [20 CM 40 P DuPont cabo fêmea-fêmea, jumpers](https://pt.aliexpress.com/item/32847418999.html) | 1 | 10,00 | 
+| [Arduino](https://pt.aliexpress.com/item/1005007512352122.html) | 1 | 35,00 |  
+| [Motor DC TT de 3 a 12v com Roda](https://pt.aliexpress.com/item/32851946942.html ) | 2 | 30,00 | 
+| [Ponte H L9110](https://pt.aliexpress.com/item/32893555258.html) | 1 | 4,00 |
+| [Carregador portátil para celular, 5V 1A 2x18650 Caixa de Bateria](https://pt.aliexpress.com/item/33011621183.html) | 1 | 5,00 |
+| [Baterias 18650 4.2v](https://produto.mercadolivre.com.br/MLB-717637625-kit-12-bateria18650-li-ion-8800mh-42v-lanterna-tatica-led-_JM) | 2 | 20,00 |
+| [Sensor Ultrassom](https://pt.aliexpress.com/item/1005006140660054.html) | 1 | 10,00 | 
+| [Sensor de Linha](https://pt.aliexpress.com/item/32837015888.html) | 2 | 10,00 | 
 | Parafusos e outros |  | 5,00 |
-| Despesas com envio (valor aproximado) | ? | 40,00 | 
+| Filamento, cerca de 200 gramas| | 20,00 | 
+| Despesas com envio (valor aproximado) |   | 50,00 | 
 
-O **total** por robô deve ficar em torno de: ??? (Em 2024) 
+O **total** por robô deve ficar em torno de: 200,00 (Em 2024) 
 
 Observação: Ao comprar em quantidade é possivel que o custo do envio fique muito baixo ou até sem custo. 
 
