@@ -6,9 +6,7 @@ Repositório de código, peças 3D e especificações básicas para o robô modu
 Esta versão é construída com Arduino, motor DC, baterias 18650 e ponte H L9110.
 <img src="https://github.com/Natalnet/URA3D/assets/19957124/10c8e088-65f9-4f02-9f3f-d631fed891e4" alt="URA" width="600" >
 
-
 ## Peças 3D 
-
 ### STLs: 
 * 1 x [Suporte Arduino](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/suporte%20arduino.stl) 
 * 1 x [Base do suporte L9110](https://github.com/orivaldosantana/robo_modular_v11/blob/main/partes%203D/sup%20L9110%20base.stl)
@@ -29,14 +27,16 @@ Esta versão é construída com Arduino, motor DC, baterias 18650 e ponte H L911
 ## Montagem
 * [Link para a montagem](https://cad.onshape.com/documents/1797a3ca0f50067e5b2f7467/w/d2fdd87127a878d32b85a5d1/e/55e155fb02a23330101a4e5d?renderMode=0&uiState=67265944ec4e1f12a94ac0fe)
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/3ee78002-2849-48c8-b791-aaa6fb2adaee" alt="MD" width="400" >
+<img src="https://github.com/user-attachments/assets/4453b4be-ca97-4bf7-9987-b7a48e5cf3fb" alt="Cima MD" width="400" >
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/972cd2d5-7001-4dbd-98d5-e0937f28fa32" alt="MD" width="400" >
+<img src="https://github.com/user-attachments/assets/4349864b-325d-407e-acae-b3dd0de694a0" alt="MD" width="400" >
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/b89a631e-ea1d-4b78-a5fb-0d59b8436ca1" alt="MD" width="400" >
+<img src="https://github.com/user-attachments/assets/b7331562-9606-4771-9835-8ffc066fd7b8" alt="MD" width="400" >
 
-<img src="https://github.com/Natalnet/URA3D/assets/19957124/b71c63b2-2b2d-4a6c-aacd-f401533b6df5" alt="MD" width="400" >
+<img src="https://github.com/user-attachments/assets/4e85dd21-8ecd-47df-bbea-1409f8556509" alt="MD" width="400" >
+ 
 
+ 
 
 ## Montagem Motores 
 * [Preparação dos motores DC](https://youtu.be/uoehkZviNMs)
@@ -44,46 +44,47 @@ Esta versão é construída com Arduino, motor DC, baterias 18650 e ponte H L911
   
 
 
-
- 
-
-* ??
-
 ### Parafusos e complementares 
-Entre motores, chassis e suporte ESP32
-* 8 M4 de 12 mm 
-* 8 porcas M4 
+Entre chassis e suporte Arduino 
+* 6 M4 de 12 mm 
+* 6 porcas M4 
 
 Entre chassis e suporte ultrassônico 
-* 1 M4 de 12 mm 
-* 1 porca M4
-* 1 arruela M4
+* 2 M4 de 12 mm 
+* 2 porcas M4
 
 Suportes dos sensores de linha 
-* ?? 
+* 2 M4 de 12 mm 
+* 2 porcas M4
 
 Entre chassis e suportes dos sensores de linha 
-* ??
+* 4 M4 de 12 mm
+* 4 porcas M4
 
 Suporte dos motores 
-* 4 M3 de 23 mm 
+* 4 M3 de 28 mm 
 * 4 porcas M3
 
-Suporte L298n
-* ??
+Suporte L9110
+* 2 M3 de 10 mm
+* 2 porcas M3
   
 Suporte Arduino
-* 4 M3 de 10 mm 
-* 4 porcas M3
+* 2 M4 de 18 mm
+* 2 M4 de 12 mm 
+* 4 porcas M4
 
-Chassis, suporte roda boba e placa 
-* 
+Chassis e suporte roda boba 
+ 
 
 Suporte ultrassônico 
-* ???
+* 2 M4 de 12 mm 
+* 2 porca M4
 
-Total geral
-* ???
+Total aproximado 
+* 18 M4 de 12 mm
+* 2 M4 de 18 mm 
+* 20 porcas M4
 
 
 ## Partes Eletrônicas e Outras 
@@ -137,14 +138,17 @@ Observação: Ao comprar em quantidade é possivel que o custo do envio fique mu
 ![ura8](https://github.com/Natalnet/URA3D/assets/19957124/90cb3097-cb28-4424-a4f0-622d4dca6935)
 
 ## TODO
-1. Organizar esta página
-2. Organizar a lista de parafusos
-3. Fazer um código de teste para a ponte H L9110
+* Organizar o código do seguidor de linha 
 
  
 
 ## Atualizações realizadas 
-1. Suporte motor DC 
+1. Suporte motor DC
+2. Suporte roda omni 
+3. Soporte ultrassom
+4. Códigos para testar o ultrassom
+5. Códigos para testar as rodas 
+
 
 
 
