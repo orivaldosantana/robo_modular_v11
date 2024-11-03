@@ -1,6 +1,8 @@
 
 # Documentação do Código
 
+Vídeo explicando o funcionamento do Fujão: https://youtu.be/eueH48s2pj8 
+
 ## Configuração dos Pinos 
 
 ### Ponte H 
