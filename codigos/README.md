@@ -64,6 +64,10 @@ Motor B - Direito
 ## Robô Fujão 
 O robô fujão foi projeto para correr em área livres, quando ele encontra alguma barreira ele tenta se afastar. O seu código foi desenvolvido com base na rede neural SOM (https://github.com/ect-comp/ml/blob/master/aulas/som.md) e contem 36 neurônios. A sua estrutura física é constituída de basicamente dois motores DC e três sensores ultrassônicos posicionados, uma na frente, outra na lateral esquerda e outra na lateral direita. 
 
+<img src="https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs40747-022-00761-2/MediaObjects/40747_2022_761_Fig1_HTML.png" alt="SOM" width="600" >
+Figura da rede SOM, fonte: https://link.springer.com/article/10.1007/s40747-022-00761-2 
+
+
 O princípio de funcionamento do código do Fujão é ler os valores dos sensores de distância, buscar na rede neural a experiência que melhor representa estas leituras e reagir conforme a experiência aprendida pela rede neural. O processo de treinamento da rede neural consistiu em coletar situações especificas (leituras dos sensores) e criar representações destas situações na rede neural SOM. Considerando que cada situação da base de treinamento possui uma ação associada, após treinada, cada neurônio da rede foi associado a uma ações. A situação ou estado do robô é representado pela leitura dos sensores. As situações e as ações foram gravadas em uma base de dados (txt). A base foi organizada em 4 colunas, sendo as três primeiras para as leituras dos sensores e a quarta coluna para a ação do robô (andar para frente, girar para esquerda, girar para direita ou andar para trás). 
 
 
